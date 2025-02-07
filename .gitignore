@@ -3,6 +3,8 @@
 node_modules
 public
 prof
+.idea
+.vscode
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
